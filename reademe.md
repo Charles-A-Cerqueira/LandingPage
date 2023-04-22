@@ -1,1 +1,1 @@
-Olá esse projeto ensina você usar o GIF.
+Tem como finalizadade, expandir conhecimento para um projeto robusto de criação.
